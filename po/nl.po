@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minotaur_Battlefield-1.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-03 21:21+0100\n"
+"PO-Revision-Date: 2014-03-03 21:21+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. [multiplayer]: id=2p_Minotaur_Battlefield
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:5
+msgid "2p - Minotaur Battlefield"
+msgstr ""
+
+#. [multiplayer]: id=2p_Minotaur_Battlefield
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:6
+msgid ""
+"Fight your adversary within an arena where countless Minotaur warlords "
+"contested for supremacy. War of Legends Era is required as a dependency."
+msgstr ""
+
+#. [side]
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:52
+msgid "One"
+msgstr ""
+
+#. [side]
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:65
+msgid "Two"
+msgstr ""
+
+#. [side]
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:78
+msgid "Minotaurs"
+msgstr ""
+
+#. [objective]: condition=win
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:101
+msgid "Defeat your adversary"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:105
+msgid "Death of your commander/leader"
+msgstr ""
+
+#. [note]
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:110
+msgid ""
+"After turn 6, the Minotaurs shall be cured of their petrification every "
+"night and they shall kill everything in their path. They shall remain "
+"petrified during the day."
+msgstr ""
+
+#. [unit]: id=Talok
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:174
+msgid "Talok Ranorm"
+msgstr ""
+
+#. [unit]: id=Rilend Ranorm
+#: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:211
+msgid "Rilend Ranorm"
+msgstr ""
