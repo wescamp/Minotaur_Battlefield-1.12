@@ -1,22 +1,25 @@
+#
+# TreefeedXavier <treefeed@mail.ru>, 2014.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Minotaur_Battlefield-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-03 21:21+0100\n"
-"PO-Revision-Date: 2014-03-03 21:21+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2014-03-22 18:16+0200\n"
+"Last-Translator: TreefeedXavier <treefeed@mail.ru>\n"
+"Language-Team: русский <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\n"
 
 #. [multiplayer]: id=2p_Minotaur_Battlefield
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:5
 msgid "2p - Minotaur Battlefield"
-msgstr ""
+msgstr "2 игрока - Колизей Минотавров"
 
 #. [multiplayer]: id=2p_Minotaur_Battlefield
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:6
@@ -24,31 +27,34 @@ msgid ""
 "Fight your adversary within an arena where countless Minotaur warlords "
 "contested for supremacy. War of Legends Era is required as a dependency."
 msgstr ""
+"Сражайтесь с вашими друзьями на арене, где бесчисленные повелители "
+"минотавров бьются за превосходство. Эра Войны Легенд (War of Legends Era) "
+"потребуется в качестве зависимостей."
 
 #. [side]
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:52
 msgid "One"
-msgstr ""
+msgstr "Первый"
 
 #. [side]
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:65
 msgid "Two"
-msgstr ""
+msgstr "Второй"
 
 #. [side]
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:78
 msgid "Minotaurs"
-msgstr ""
+msgstr "Минотавры"
 
 #. [objective]: condition=win
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:101
 msgid "Defeat your adversary"
-msgstr ""
+msgstr "Одолейте соперника"
 
 #. [objective]: condition=lose
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:105
 msgid "Death of your commander/leader"
-msgstr ""
+msgstr "Смерть вашего вождя/командира"
 
 #. [note]
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:110
@@ -57,13 +63,15 @@ msgid ""
 "night and they shall kill everything in their path. They shall remain "
 "petrified during the day."
 msgstr ""
+"После 6 ходов, Минотавры сбросят цепи окаменелости и сметут всё на своём "
+"пути. Они останутся окаменевшими в течении дня."
 
 #. [unit]: id=Talok
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:174
 msgid "Talok Ranorm"
-msgstr ""
+msgstr "Талок Ранорм"
 
 #. [unit]: id=Rilend Ranorm
 #: Minotaur_Battlefield/scenarios/2p_Minotaur_Battlefield.cfg:211
 msgid "Rilend Ranorm"
-msgstr ""
+msgstr "Риленд Ранорм"
